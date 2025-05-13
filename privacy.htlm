@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ripple Privacy Policy</title>
+  <style>
+    body { font-family: sans-serif; max-width: 700px; margin: auto; padding: 2em; line-height: 1.6; }
+    h1, h2 { color: #333366; }
+  </style>
+</head>
+<body>
+  <h1>Ripple Privacy Policy</h1>
+
+  <p><strong>Effective Date:</strong> May 2025</p>
+
+  <h2>Overview</h2>
+  <p>Ripple is an offline-first personal data manager designed to give users complete control over their information. It does not use cloud storage, does not send or receive data over the internet, and does not collect any personal information.</p>
+
+  <h2>Data Storage</h2>
+  <ul>
+    <li>All data is stored locally on your device.</li>
+    <li>No data is synced or backed up online unless you choose to export it manually.</li>
+    <li>Optional encryption is available when exporting your data to another device.</li>
+  </ul>
+
+  <h2>Permissions</h2>
+  <p>Ripple may request access to:</p>
+  <ul>
+    <li><strong>Storage:</strong> To allow importing/exporting of backups and storing image attachments.</li>
+    <li><strong>Media & Files:</strong> For optional image attachments to records.</li>
+  </ul>
+  <p>No data is transmitted, logged, or shared with any third-party service.</p>
+
+  <h2>Third-Party Access</h2>
+  <p>Ripple does not use third-party analytics, advertising, or remote logging services.</p>
+
+  <h2>Windows Companion Version</h2>
+  <p>A Windows version of Ripple is available and does not collect or transmit user data. Data can be transferred securely using encrypted ZIP backups and an unlock key.</p>
+
+  <h2>Licensing</h2>
+  <p>Ripple is free to try with limits. A one-time unlock key enables full access. No user data is associated with the license, and it does not require online activation.</p>
+
+  <h2>Contact</h2>
+  <p>If you have any questions about this privacy policy, you can reach us at: <strong>managerripple@gmail.com</strong></p>
+
+</body>
+</html>
